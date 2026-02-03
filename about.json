@@ -1,0 +1,8 @@
+{
+  "name": "discourse-role-toolbar",
+  "version": "0.1.0",
+  "authors": "Jordan",
+  "theme_version": 2,
+  "description": "A Discourse theme component that adds role-based formatting customization to primary and secondary composer toolbar buttons.",
+  "license": "MIT"
+}
