@@ -1,5 +1,6 @@
 {
   "name": "discourse-role-toolbar",
+  "component": true,
   "version": "0.1.0",
   "authors": "Jordan",
   "theme_version": 2,
